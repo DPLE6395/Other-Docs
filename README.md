@@ -1,4 +1,4 @@
-![](/assets/images/lion_icon.png "lion")
+![](/assets/images/lion_icon_128.png "lion")
 # Other-Docs
 >## Markdown editor
 >> https://stackedit.io/app#
